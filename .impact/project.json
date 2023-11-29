@@ -7,4 +7,11 @@
       "versionSpecifier": "4.0.0"
     }
   ]
+ "content": [
+    {
+      "relpath": "Chemical",
+      "contentType": "MODELICA",
+      "name": "Chemical",
+      "defaultDisabled": false
+    }  
 }
