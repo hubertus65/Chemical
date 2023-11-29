@@ -6,12 +6,51 @@
       "name": "Modelica",
       "versionSpecifier": "4.0.0"
     }
-  ]
- "content": [
+  ],
+  "content": [
     {
       "relpath": "Chemical",
       "contentType": "MODELICA",
       "name": "Chemical",
-      "defaultDisabled": false
-    }  
+      "defaultDisabled": false,
+      "id": "79ac19b74d1e45a6baa8aa70c4ddec75"
+    },
+    {
+      "relpath": "Resources/Views",
+      "contentType": "VIEWS",
+      "defaultDisabled": false,
+      "id": "138f7d7dda3441c299d424e6659b3fda"
+    },
+    {
+      "relpath": "Resources/Favorites",
+      "contentType": "FAVORITES",
+      "defaultDisabled": false,
+      "id": "78213bd6b459436e8c83caa86e5e8a53"
+    },
+    {
+      "relpath": "Resources/CustomFunctions",
+      "contentType": "CUSTOM_FUNCTIONS",
+      "defaultDisabled": false,
+      "id": "daf38f894bad4fa497f140c736b26644"
+    },
+    {
+      "relpath": "Resources/Custom",
+      "contentType": "GENERIC",
+      "defaultDisabled": false,
+      "id": "fa597de893754dc4aa73e163dc0a8780"
+    },
+    {
+      "relpath": "ReferenceResults",
+      "contentType": "REFERENCE_RESULTS",
+      "defaultDisabled": false,
+      "id": "f2c32957b1ba44fe985de8dca70362c2"
+    },
+    {
+      "relpath": "Resources/ExperimentDefinitions",
+      "contentType": "EXPERIMENT_DEFINITIONS",
+      "defaultDisabled": false,
+      "id": "43784144984a45ea8618fa36ff6a6e80"
+    }
+  ],
+  "executionOptions": []
 }
